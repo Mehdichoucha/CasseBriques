@@ -120,14 +120,6 @@ Le jeu utilise une machine à états pour gérer :
 - Conteneurs STL (`std::vector`) pour les briques
 - Gestion d'événements SFML 3.0
 
-## 👥 Contributeur
-
-- **Aminata Constance Sané** - Développeuse principale
-
-## 📄 Licence
-
-Ce projet est développé pour un portfolio.
-
 ---
 
 **Score maximum possible : 500 points** (50 briques × 10 points)
